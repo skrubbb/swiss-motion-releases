@@ -1,8 +1,8 @@
 {
-  "version": "0.9.5",
+  "version": "0.9.7",
   "date": "2026-11-14",
-  "notes": "• Send feedback button in Settings → About opens the feedback form.\n• Edit mode (pencil): hovering a button shows its name.\n• Fixed: changing a colour in Mono Light turned the plate dark.\n• Settings: labels and button texts are now centred vertically.\n• New About page in Settings: version, update, changelog and feedback. The gear's red dot opens it.\n• Modifier names: choose macOS (Cmd / Opt) or Windows (Ctrl / Alt).\n• Copy system info for bug reports.",
-  "full": "https://github.com/skrubbb/swiss-motion-releases/releases/download/v0.9.5/SwissMotion-0.9.5.zxp",
-  "lite": "https://github.com/skrubbb/swiss-motion-releases/releases/download/v0.9.5/SwissMotion-0.9.5-Lite.zxp",
-  "page": "https://github.com/skrubbb/swiss-motion-releases/releases/tag/v0.9.5"
+  "notes": "• Licenses can be revoked: a revoked key stops working the next time the panel opens.\n• Lite: the button layout no longer has empty spots after switching from the full version.\n• Lite is now called \"Swiss Motion Lite\" in the installer and under Window → Extensions.",
+  "full": "https://github.com/skrubbb/swiss-motion-releases/releases/download/v0.9.7/SwissMotion-0.9.7.zxp",
+  "lite": "https://github.com/skrubbb/swiss-motion-releases/releases/download/v0.9.7/SwissMotion-0.9.7-Lite.zxp",
+  "page": "https://github.com/skrubbb/swiss-motion-releases/releases/tag/v0.9.7"
 }
